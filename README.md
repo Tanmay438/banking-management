@@ -1,5 +1,2 @@
-# Java_Banking_App_GUI
-Compile code:
-  javac Main.java
-Run Programe:
-  java Main
+# Banking Management System
+Created by Tanmay Waghmare
